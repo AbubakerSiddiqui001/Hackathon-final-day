@@ -1,8 +1,6 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 "use client";
-
 import React from "react";
-
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { Facebook, Twitter, Instagram, Github, Mail } from "lucide-react";
